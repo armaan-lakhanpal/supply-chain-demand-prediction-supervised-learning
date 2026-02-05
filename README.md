@@ -22,7 +22,6 @@ This project formulates demand prediction as a **supervised classification probl
 - Logistic Regression  
 - Decision Tree  
 - Random Forest  
-- (Add/remove based on your notebook)
 
 ##  Evaluation Metrics
 - Accuracy  
