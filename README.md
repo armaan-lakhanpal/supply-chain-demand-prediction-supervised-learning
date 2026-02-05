@@ -19,9 +19,10 @@ This project formulates demand prediction as a **supervised classification probl
 5. Performance evaluation  
 
 ##  Models Used
-- Logistic Regression  
-- Decision Tree  
-- Random Forest  
+Logistic Regression (LR) | Support Vector Machines (SVM) | Stochastic Gradient Descent (SDG)
+Decision Trees (DT) | K-Nearest Neighbors (KNN) | Naive Bayes (NB)
+Ensembles (Bagging | Boosting): Random Forest (RF) | Extreme Gradient Boosting (XGB)
+
 
 ##  Evaluation Metrics
 - Accuracy  
